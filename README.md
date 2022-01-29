@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonn6pence&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=shin421179)](https://solved.ac/shin421179)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shin421179)](https://solved.ac/shin421179)
