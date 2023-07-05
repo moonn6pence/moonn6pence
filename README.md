@@ -1,21 +1,9 @@
 ### Hi there 👋
 
-<!--
-**moonn6pence/moonn6pence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoonn6pence%2Fmoonn6pence&count_bg=%23968D7E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+### 😋 포트폴리오
+[🔗LINK🔗](https://5ailor-mxxn.notion.site/c06a335e37d74eb2a92b9e941a53fcc5?pvs=4)
 
 ### 📚 기술 스택
 
@@ -60,5 +48,4 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonn6pence&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⚙️ solved.ac
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shin421179)](https://solved.ac/shin421179)
+[![shin421179's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=shin421179)](https://solved.ac/profile/shin421179)
