@@ -1,18 +1,36 @@
-### Hi there 👋
+## 신현철 | 문제 해결을 즐기는 개발자...가 되려합니다!
+```
+블로그보단 공식 문서를 통해 개발하고,
+단순한 코드 복사 붙여넣기 보다는 스스로 문제 해결을 즐기는 개발자입니다.
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoonn6pence%2Fmoonn6pence&count_bg=%23968D7E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-### 😋 포트폴리오
-[🔗LINK🔗](https://5ailor-mxxn.notion.site/c06a335e37d74eb2a92b9e941a53fcc5?pvs=4)
-
-### 📚 기술 스택
-
+여러 프로젝트의 ‘팀장’ 경험으로부터 어떻게해야 좋은 ‘팀원’이 될 수 있는지 항상 생각합니다.
+좋은 팀원으로써 빠르게 팀에 녹아들 자신이 있습니다.
+```
+---
+## 🔍 Detail  
+[🔗 이력서 🔗](https://5ailor-mxxn.notion.site/c06a335e37d74eb2a92b9e941a53fcc5?pvs=4)  
+[🔗 ~~포트폴리오~~ 🔗]() (준비중)
+---
+## 📚 Skills
+### 가장 자신 있는 친구들
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <br>
+</div>
+---
+### 이외에 경험해본 친구들
+<div align=left> 
   <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
   <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
-  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
   <br>
 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -25,27 +43,23 @@
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> 
   <br>
   
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <br>
 
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <br>
-  
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br>
-</div>
 
+</div>
+---
 ### ✅ 깃허브 요약
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonn6pence&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-
+---
 ### ⚙️ solved.ac
 [![shin421179's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=shin421179)](https://solved.ac/profile/shin421179)
