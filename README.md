@@ -6,11 +6,20 @@
 여러 프로젝트의 ‘팀장’ 경험으로부터 어떻게해야 좋은 ‘팀원’이 될 수 있는지 항상 생각합니다.
 좋은 팀원으로써 빠르게 팀에 녹아들 자신이 있습니다.
 ```
+
 ---
+## 👣 발자취
+
+- 2017.03 ~ 2023.02 : `동국대학교 정보통신공학과`
+- 2022.02 ~ 2022.06 : `UMC 2기`
+- 2023.01 ~ 현재 : `SSAFY 9기`
+- 2023.05 ~ 현재 : `Team SSAF-SOUND`
+
+---  
 ## 🔍 Detail  
 [🔗 이력서 🔗](https://5ailor-mxxn.notion.site/c06a335e37d74eb2a92b9e941a53fcc5?pvs=4)  
-[🔗 ~~포트폴리오~~ 🔗]() (준비중)
----
+[🔗 ~~포트폴리오~~ 🔗]() (공사중)
+---  
 ## 📚 Skills
 ### 가장 자신 있는 친구들
 <div align=left> 
@@ -25,7 +34,8 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <br>
 </div>
----
+
+---  
 ### 이외에 경험해본 친구들
 <div align=left> 
   <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
@@ -56,7 +66,8 @@
   <br>
 
 </div>
----
+
+---  
 ### ✅ 깃허브 요약
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonn6pence&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
