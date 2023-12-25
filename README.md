@@ -1,4 +1,4 @@
-## 신현철 | 문제 해결을 즐기는 개발자...가 되려합니다!
+## 신현철 | 발로 뛰는 클라우드 인프라 개발자 & Solution Provider.
 ```
 블로그보단 공식 문서를 통해 개발하고,
 단순한 코드 복사 붙여넣기 보다는 스스로 문제 해결을 즐기는 개발자입니다.
@@ -10,10 +10,11 @@
 ---
 ## 👣 발자취
 
-- 2017.03 ~ 2023.02 : `동국대학교 정보통신공학과`
+- 2024.01 ~   현재   : `SK C&C`
+- 2023.05 ~ 2023.11 : `Team SSAF-SOUND`
+- 2023.01 ~ 2023.12 : `SSAFY 9기`
 - 2022.02 ~ 2022.06 : `UMC 2기`
-- 2023.01 ~ 현재 : `SSAFY 9기`
-- 2023.05 ~ 현재 : `Team SSAF-SOUND`
+- 2017.03 ~ 2023.02 : `동국대학교 정보통신공학과`
 
 ---  
 ## 🔍 Detail  
@@ -22,15 +23,15 @@
 ## 📚 Skills
 ### 가장 자신 있는 친구들
 <div align=left> 
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <br>
+  
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
   <br>
   
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <br>
-
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <br>
 </div>
 
