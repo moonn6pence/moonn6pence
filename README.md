@@ -1,4 +1,4 @@
-## 신현철 | 발로 뛰는 DBA & Solution Provider.
+# 신현철 | 발로 뛰는 DBA & Solution Provider.
 ```
 블로그보단 공식 문서를 통해 개발하고,
 단순한 코드 복사 붙여넣기 보다는 스스로 문제 해결을 즐기는 개발자입니다.
@@ -17,7 +17,8 @@
 - 2017.03 ~ 2023.02 : `동국대학교 정보통신공학과`
 
 ---  
-## 🔍 Detail  
+# 🔍 Details
+
 [🔗 이력서 🔗](https://5ailor-mxxn.notion.site/c06a335e37d74eb2a92b9e941a53fcc5?pvs=4)  
 ---  
 ## 📚 Skills
@@ -70,7 +71,11 @@
 
 </div>
 
----  
+---
+### 🔖 Cert.
+- SQLD
+- AWS Certified Database - Specialty
+---
 ### ✅ 깃허브 요약
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moonn6pence&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
